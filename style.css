@@ -1,0 +1,30 @@
+body{
+    
+    background: url("https://images.pexels.com/photos/2082109/pexels-photo-2082109.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-size: cover; 
+    font-family: 'Baloo Bhai', cursive;
+}
+
+h1,h3,h4{
+    
+    text-align: center;
+    font-family: 'Timmana', sans-serif;
+    color:yellow;
+    
+}
+button{
+    text-align: center;
+    margin: 50px 600px 0 600px;
+    color: orangered;
+    background: yellow;
+    border-radius: 25px;
+    
+        
+}
+a:-webkit-any-link {
+    color: yellow;
+    cursor: pointer;
+    text-decoration: underline;
+    text-align: center;
+    margin-left:500px
+}
