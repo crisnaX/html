@@ -1,4 +1,6 @@
 # html-css-js
 
-hi, i'm srikanth. I didi try how geolocation API works. I feel happy to review my code and suggestion for its improvement.
-cool existing projects with little spice of creativity
+Hey, I'm srikanth and newbie to this coding world. I did a geolocation API, please review and suggest me to improve on this coding
+
+                   ThankYou!!!!!!!
+
